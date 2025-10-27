@@ -1,13 +1,13 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Mint Starter Kit",
+  "name": "IRS Guide",
   "colors": {
     "primary": "#16A34A",
     "light": "#07C983",
     "dark": "#15803D"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "/favicon.webp",
   "navigation": {
     "tabs": [
       {
@@ -19,12 +19,10 @@
               "index"
             ]
           },
-          {
-            "group": "AI tools",
+             {
+            "group": "Product Guides",
             "pages": [
-              "ai-tools/cursor",
-              "ai-tools/claude-code",
-              "ai-tools/windsurf"
+              "Product-Help/egateSystem"
             ]
           }
         ]
